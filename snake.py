@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # import statements
 import pygame
 import sys
